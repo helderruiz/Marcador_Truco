@@ -11,6 +11,8 @@ body {
   justify-content: center;
   align-items: center;
   background-color: #18181b;
+  width: 100%;
+  
 }
 
 h1 {
@@ -34,6 +36,7 @@ h1 {
   gap: 5px;
   margin-bottom: 0.5rem;
 }
+
 
 #counter {
   display: flex;
